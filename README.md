@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India 🚀 Passionate about Machine Learning and coding in multiple languages. 💻 Love tackling challenges and exploring new technologies. 🔍 Always eager to learn, innovate, and build impactful projects. 📌 Open to collaboration and contributing to open-source.</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-- 🌱 I’m currently learning **Tensorflow , Machine Learning & AI (Neural Networks) ,Advanced Data Structures & Algorithms , Cloud & DevOps (Docker, Kubernetes, AWS basics)**
+- 🌱 I’m currently learning **Tensorflow , Machine Learning & AI (Neural Networks) ,Advanced Data Structures & Algorithms , **
 
 - 💬 Ask me about **Python,C,Java**
 
